@@ -1,0 +1,49 @@
+body{
+    background-color: #141414;
+    color: white;
+    font-family: Arial;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    color: red;
+    margin-bottom: 30px;
+}
+
+select{
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.results{
+    margin-top: 40px;
+}
+
+.movie-card{
+    background-color: #222;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.movie-card img{
+    width:200px;
+    height:300px;
+    object-fit:cover;
+    border-radius:10px;
+}
